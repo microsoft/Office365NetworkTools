@@ -1,8 +1,8 @@
 # Microsoft Office 365 Network Tools
 
 Welcome to the home for Microsoft Office 365 Network Tools, you will find here resources to help you:
-a. Plan for Network Connectivity to Office 365 services
-b. Optimize Network Connectivity and performance for users accessing Office 365 services
+1. Plan for Network Connectivity to Office 365 services
+2. Optimize Network Connectivity and performance for users accessing Office 365 services
 
 Through this initiative we are collecting solutions, scripts, and guidance from across Office 365 engineering teams with aim to make on-premises network infrastructure readiness easier for Office 365 on-boarding, we also intend to grow and improve these resources with help from the community and partners. 
 

@@ -31,6 +31,11 @@ Microsoft Monitoring Agent (MMA)
 
 Dependency Agent
 
+# New Announcements (December 2019)
+
+UDP now supported for measuring network bandwidth usage of Teams media traffic (Audio, Video, Screen Sharing), update your Dependency Agent to the latest version for UDP support
+Sample Queries for measuring network bandwidth usage and TCP connections to 'Optimize' category Office 365 endpoints
+
 # Support Statement
 The scripts, samples, and tools made available through the Open Source initiative are provided as-is. These resources are developed in partnership with the community and do not represent official Microsoft software. As such, support is not available through premier or other official support channels. If you find an issue or have questions please reach out through the issues list and we'll do our best to assist, but there is no support SLA associated with these tools.
 

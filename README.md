@@ -17,8 +17,8 @@ You can use this solution if you intend to:
 5. Measure number of TCP connections used while connecting to 'Optimize' category Office 365 endpoints
 
 #### /Scripts/ 
-ExpressRoute PAC file creation 
-PAC file creation based on Office 365 endpoint categories 
+1. ExpressRoute PAC file creation 
+2. PAC file creation based on Office 365 endpoint categories by leveraging Office 365 IP address and URL webservice
 
 # Important Links
 	Office 365 network connectivity principles – http://aka.ms/pnc 

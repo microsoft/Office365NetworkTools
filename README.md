@@ -1,15 +1,33 @@
 # Microsoft Office 365 Network Tools
 
-Welcome to the home for Microsoft Office 365 Network Tools. Through this initiative we are collecting tools, scripts, and guidance from across engineering teams with the aim to make them easier to find, grow, and improve with help from the community and partners.
+Welcome to the home for Microsoft Office 365 Network Tools, you will find here resources to help you:
+1. Plan for Network Connectivity to Office 365 services
+2. Optimize Network Connectivity and performance for users accessing Office 365 services
+
+Through this initiative we are collecting solutions, scripts, and guidance from across Office 365 engineering teams with aim to make on-premises network infrastructure readiness easier for Office 365 on-boarding, we also intend to grow and improve these resources with help from the community and partners. 
 
 ## Folders & Description:
 
 #### /Office 365 Network Bandwidth meter/ 
-This is a beta solution we released recently in September 2018 to: 
-1. Measure network bandwidth usage for pilot users on-boarded to Office 365 or network bandwidth usage of on-premises users. 
-2. Build and maintain endpoint monitoring dashboards post on-boarding users to Office 365 
+You can use this solution if you intend to:
+1. Measure network bandwidth usage for pilot users on-boarded to Office 365
+2. Measure network bandwidth usage for services like Exchange Online, SharePoint Online/OneDrive for Business and Microsoft Teams
+3. Measure network bandwidth usage for traffic to 'Optimize' category Office 365 endpoints
+4. Measure number of TCP connections used while connecting to Office 365 services like Exchange Online, SharePoint Online/OneDrive for Business
+5. Measure number of TCP connections used while connecting to 'Optimize' category Office 365 endpoints
 
-This solution uses Azure monitoring, specifically Service Map. You can apply this concept for measuring any SaaS/PaaS traffic, not just Office 365. 
+#### /Scripts/ 
+1. ExpressRoute PAC file creation 
+2. PAC file creation based on Office 365 endpoint categories by leveraging Office 365 IP address and URL webservice
+
+# Important Links
+	Office 365 network connectivity principles – http://aka.ms/pnc 
+	Office 365 URL & IP Ranges – http://aka.ms/o365ip
+	Office 365 URL & IP web service – http://aka.ms/ipurlws 
+	Office 365 URL & IP web service usage – http://aka.ms/ipurlblog 
+	Office 365 Network Onboarding Tool – http://aka.ms/netonboard 
+	Office 365 Network scripts on Github - http://aka.ms/o365nettools 
+	Office 365 Network Bandwidth Meter on Github – http://aka.ms/bandwidth 
 
 # Open to ideas
 If you have ideas for projects that would improve our delivery, experience, or process please submit an issue and let us know. We can't promise every idea will be implemented, but we value your feedback. Please be sure to include sufficient information that we can understand your idea and respond.
